@@ -1,3 +1,5 @@
 *.json
 venv/
 **__pycache__/**
+data/*.parquet
+notebook/.ipynb_checkpoints/
